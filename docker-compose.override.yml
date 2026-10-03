@@ -1,0 +1,7 @@
+# Mounts the local LibreChat config. Merged automatically with docker-compose.yml.
+services:
+  api:
+    volumes:
+      - type: bind
+        source: ./librechat.yaml
+        target: /app/librechat.yaml

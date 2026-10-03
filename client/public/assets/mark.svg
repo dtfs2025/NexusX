@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="NexusX">
+  <title>NexusX</title>
+  <g id="mark">
+    <rect width="72" height="72" rx="16" fill="#1C2433"/>
+    <g fill="none" stroke-linecap="round" stroke-width="5.5">
+      <path d="M13 13L26.5 26.5" stroke="#F3EEE6"/>
+      <path d="M59 13L45.5 26.5" stroke="#F3EEE6"/>
+      <path d="M13 59L26.5 45.5" stroke="#F3EEE6"/>
+      <path d="M59 59L45.5 45.5" stroke="#E39A4A"/>
+    </g>
+    <polygon points="36,24 48,36 36,48 24,36" fill="#E39A4A"/>
+  </g>
+</svg>
